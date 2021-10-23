@@ -109,10 +109,10 @@ input, select {
 
 .main-heading {
     font-family: 'Noto Sans Mono', monospace;
-    animation-duration: 150ms;
-    animation: ease-in;
+    text-align: center;
+    font-size: xx-large;
 }
 
 .about-button {
-
+    border: black;
 }
